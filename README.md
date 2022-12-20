@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Waris Adebayo also known as @wixda
+- 👋 Hi, I’m Waris Adebayo
 - 👀 I’m interested in building frontend projects
 - 🌱 I’m currently learning html, css with python(django) and building projects to improve my skills
 - 💞️ I’m looking to collaborate on frontend web development
